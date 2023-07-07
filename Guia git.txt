@@ -10,3 +10,6 @@ se va a ver en la rama: rama_1
 
 
 Este es un cambio hecho desde github
+
+voy a este cambio hecho en el local 
+y subirlo esto a github
